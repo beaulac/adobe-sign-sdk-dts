@@ -1,0 +1,8 @@
+{
+  "name": "adobe-sign-sdk-dts",
+  "version": "0.0.1",
+  "description": "Typescript definitions for adobe-sign-sdk",
+  "types": "index.d.ts",
+  "author": "Antoine Beauvais-Lacasse <antoine.beaulac@gmail.com>",
+  "license": "ISC"
+}
